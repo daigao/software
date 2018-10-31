@@ -1,0 +1,5 @@
+c:\users\a1453\documents\visual studio 2015\Projects\Get Image Compression\ImageCompression\bin\Debug\ImageCompression.dll
+c:\users\a1453\documents\visual studio 2015\Projects\Get Image Compression\ImageCompression\bin\Debug\ImageCompression.pdb
+c:\users\a1453\documents\visual studio 2015\Projects\Get Image Compression\ImageCompression\obj\Debug\ImageCompression.csprojResolveAssemblyReference.cache
+c:\users\a1453\documents\visual studio 2015\Projects\Get Image Compression\ImageCompression\obj\Debug\ImageCompression.dll
+c:\users\a1453\documents\visual studio 2015\Projects\Get Image Compression\ImageCompression\obj\Debug\ImageCompression.pdb

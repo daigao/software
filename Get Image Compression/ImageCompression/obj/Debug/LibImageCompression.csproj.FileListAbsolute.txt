@@ -1,0 +1,4 @@
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\ImageCompression\obj\Debug\ImageCompression.dll
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\ImageCompression\obj\Debug\ImageCompression.pdb
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\ImageCompression\bin\Debug\ImageCompression.dll
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\ImageCompression\bin\Debug\ImageCompression.pdb

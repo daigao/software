@@ -1,0 +1,16 @@
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\bin\Debug\Get Image Compression.exe.config
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\bin\Debug\Get Image Compression.exe
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\bin\Debug\Get Image Compression.pdb
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\bin\Debug\ImageCompression.dll
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\bin\Debug\ImageCompression.pdb
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\obj\Debug\Get Image Compression.csprojResolveAssemblyReference.cache
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\obj\Debug\MainWindow.g.cs
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\obj\Debug\App.g.cs
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\obj\Debug\Get Image Compression_MarkupCompile.cache
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\obj\Debug\Get Image Compression_MarkupCompile.lref
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\obj\Debug\MainWindow.baml
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\obj\Debug\Get Image Compression.g.resources
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\obj\Debug\Get_Image_Compression.Properties.Resources.resources
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\obj\Debug\Get Image Compression.csproj.GenerateResource.Cache
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\obj\Debug\Get Image Compression.exe
+C:\Users\a1453\documents\visual studio 2015\Projects\Get Image Compression\Get Image Compression\obj\Debug\Get Image Compression.pdb

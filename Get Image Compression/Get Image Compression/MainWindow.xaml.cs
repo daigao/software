@@ -41,6 +41,7 @@ namespace Get_Image_Compression
 
         private void BtnStartToImageCompression_Click(object sender, RoutedEventArgs e)
         {
+            lbState.Content = "开始压缩";
             var task = new List<Task<bool>>();
 
             foreach (var item in fileNames)
@@ -77,6 +78,11 @@ namespace Get_Image_Compression
             this.Dispatcher.Invoke(new Action(() =>
             {
                 pbarGo.Value += 1;
+                if (pbarGo.Value==pbarGo.Maximum)
+                {
+                    lbState.Content = "已完成！";
+                    pbarGo.Value = 0;
+                }
             }));
             return rv;
         }

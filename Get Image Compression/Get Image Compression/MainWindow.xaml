@@ -10,7 +10,7 @@
         <Canvas Width="520" Height="350">
             <TextBox x:Name="tbxDirFile" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="186" Margin="131,101,0,0" FontSize="16"/>
             <Button x:Name="btnSelectImages" Content="选择图片" HorizontalAlignment="Left" Margin="322,99,0,0" VerticalAlignment="Top" Width="80" BorderThickness="0" FontSize="16" Height="34"/>
-
+            <Label x:Name="lbState" Content="初始化" FontSize="16" Margin="330,145,0,0"></Label>
             <ProgressBar x:Name="pbarGo" HorizontalAlignment="Left" Height="18" VerticalAlignment="Top" Width="112" Maximum="98" Canvas.Left="205" Canvas.Top="152" SmallChange="0"/>
             <Button x:Name="btnStartToImageCompression" Content="开始转换" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" BorderThickness="0" FontSize="16" Height="34" Canvas.Left="213" Canvas.Top="201"/>
 

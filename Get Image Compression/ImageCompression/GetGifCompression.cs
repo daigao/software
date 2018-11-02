@@ -57,7 +57,11 @@ namespace LibImageCompression
                     //保存标识参数
                     Encoder encoder = Encoder.SaveFlag;
                     //
-                    EncoderParameters ep = null;
+                    EncoderParameters ep = new EncoderParameters();
+                    long[] py = new long[1];
+                    py[0] = flag;//设置压缩的比例1-100
+                    EncoderParameter eParam = new EncoderParameter(System.Drawing.Imaging.Encoder.Quality, py);
+                    
                     //图像编码、解码器
                     ImageCodecInfo ici = null;
                     //图片编码、解码器合集
@@ -85,9 +89,9 @@ namespace LibImageCompression
                             {
                                 new_img.SetPropertyItem(img.PropertyItems[j]);
                             }
-                            ep = new EncoderParameters(1);
+
                             //第一帧需要设置为MultiFrame
-                            ep.Param[0] = new EncoderParameter(encoder, (long)EncoderValue.MultiFrame);
+                            ep.Param[0] = eParam;
                             //保存第一帧
                             new_img.Save(dFile, ici, ep);
                         }
@@ -101,17 +105,16 @@ namespace LibImageCompression
                             {
                                 new_imgs.SetPropertyItem(img.PropertyItems[j]);
                             }
-                            ep = new EncoderParameters(1);
                             //如果是GIF这里设置为FrameDimensionTime
                             //如果为TIFF则设置为FrameDimensionPage
-                            ep.Param[0] = new EncoderParameter(encoder, (long)EncoderValue.FrameDimensionTime);
+                            ep.Param[0] = eParam;
                             //向新图添加一帧
                             new_img.SaveAdd(new_imgs, ep);
                         }
                     }
-                    ep = new EncoderParameters(1);
+                    
                     //关闭多帧文件流
-                    ep.Param[0] = new EncoderParameter(encoder, (long)EncoderValue.Flush);
+                    ep.Param[0] = eParam;
                     new_img.SaveAdd(ep);
                 }
                 return true;

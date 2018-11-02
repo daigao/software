@@ -28,7 +28,7 @@ namespace Get_Image_Compression
             OpenFileDialog open = new OpenFileDialog();
             open.Multiselect = true;
             open.Title = "选择图片文件";
-            open.Filter = "图片|*.jpg;*.png;*.gif;*bmp";
+            open.Filter = "图片|*.jpg;*.png;*.gif;*.bmp";
             if (open.ShowDialog() == true)
             {
                 fileNames = open.FileNames;

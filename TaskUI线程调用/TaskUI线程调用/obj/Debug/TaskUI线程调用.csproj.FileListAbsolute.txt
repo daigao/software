@@ -1,0 +1,9 @@
+C:\Users\a1453\Desktop\机试题\TaskUI线程调用\TaskUI线程调用\bin\Debug\TaskUI线程调用.exe.config
+C:\Users\a1453\Desktop\机试题\TaskUI线程调用\TaskUI线程调用\bin\Debug\TaskUI线程调用.exe
+C:\Users\a1453\Desktop\机试题\TaskUI线程调用\TaskUI线程调用\bin\Debug\TaskUI线程调用.pdb
+C:\Users\a1453\Desktop\机试题\TaskUI线程调用\TaskUI线程调用\obj\Debug\TaskUI线程调用.csprojResolveAssemblyReference.cache
+C:\Users\a1453\Desktop\机试题\TaskUI线程调用\TaskUI线程调用\obj\Debug\TaskUI线程调用.Form1.resources
+C:\Users\a1453\Desktop\机试题\TaskUI线程调用\TaskUI线程调用\obj\Debug\TaskUI线程调用.Properties.Resources.resources
+C:\Users\a1453\Desktop\机试题\TaskUI线程调用\TaskUI线程调用\obj\Debug\TaskUI线程调用.csproj.GenerateResource.Cache
+C:\Users\a1453\Desktop\机试题\TaskUI线程调用\TaskUI线程调用\obj\Debug\TaskUI线程调用.exe
+C:\Users\a1453\Desktop\机试题\TaskUI线程调用\TaskUI线程调用\obj\Debug\TaskUI线程调用.pdb
